@@ -1,2 +1,2 @@
 # nextjs-dashboard
-Nextjs's course 
+Nextjs's course follow through 
